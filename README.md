@@ -1,5 +1,10 @@
 # PowerBI-SQL-Project
 
+
+## Screenshots
+
+![configuration settings](https://github.com/Anuragjana432/movie_powerBI/blob/main/tiktok.png)
+
 ## Project Proposal
 Use MySQL and PowerBI to analyze product and customer data from the MavenMovie movie rental business.
 
