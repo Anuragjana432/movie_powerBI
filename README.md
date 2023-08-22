@@ -24,3 +24,6 @@ C. Use DAX to create a new rolling calender table and the following calculated c
   
 D. Add relationships between tables to create a variety of visualiztions that provide an in-depth product and customer base summary. 
 # movie_powerBI
+
+# Author
+@Anurag jaana
